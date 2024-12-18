@@ -8,7 +8,6 @@ import Loader from "./components/Loader/Loader";
 import axios from "axios";
 import toast, { Toaster } from "react-hot-toast";
 import Modal from "react-modal";
-import "modern-normalize";
 
 Modal.setAppElement("#root");
 
